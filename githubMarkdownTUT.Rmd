@@ -1,0 +1,10 @@
+---
+title: "githubTUT"
+output: html_document
+---
+
+```{r setup, include=T}
+knitr::opts_chunk$set(echo = TRUE)
+
+print("wassup team")
+```
